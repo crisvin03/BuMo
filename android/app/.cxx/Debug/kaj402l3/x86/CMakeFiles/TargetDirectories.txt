@@ -1,0 +1,2 @@
+C:/BuMo-Project main - with firebase/android/app/.cxx/Debug/kaj402l3/x86/CMakeFiles/edit_cache.dir
+C:/BuMo-Project main - with firebase/android/app/.cxx/Debug/kaj402l3/x86/CMakeFiles/rebuild_cache.dir
