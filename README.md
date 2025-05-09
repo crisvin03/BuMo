@@ -10,12 +10,13 @@
 </p>
 
 <p align="center">
+  <img src="assets/BuMo4.png" width="200"/>
   <img src="assets/BuMo5.png" width="200"/>
   <img src="assets/BuMo6.png" width="200"/>
-  <img src="assets/BuMo7.png" width="200"/>
 </p>
 
 <p align="center">
+  <img src="assets/BuMo7.png" width="200"/>
   <img src="assets/BuMo8.png" width="200"/>
   <img src="assets/BuMo9.png" width="200"/>
 
