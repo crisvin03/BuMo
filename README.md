@@ -1,15 +1,50 @@
-# BuMo
-A new Flutter project.
+# 🚖 BuMo – Bulan Moonride Motorcycle Ride App
 
-## Getting Started
+**BuMo** is a Flutter-based mobile application that replicates the core functionality of ride-hailing platforms like Angkas. It provides a seamless user experience for both **riders** and **drivers**, enabling real-time booking, navigation, and communication.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🧩 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 👥 User Roles
+- **Rider**: Request rides, track driver location, view ride history
+- **Driver**: Accept ride requests, navigate to pickup/drop-off points, manage availability
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🗺 Real-Time Location & Navigation
+- Google Maps integration
+- Live location tracking
+- Route rendering and markers
+
+### 💬 Messaging
+- Chat system between rider and driver
+- Firebase-powered inbox and conversation threads
+
+### 🔐 Authentication
+- Secure registration and login for both roles
+- Email verification and password recovery
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: Flutter (Dart)
+- **Backend**: Firebase (Auth, Firestore, Storage)
+- **Maps & Location**: Google Maps API, Geolocator
+- **State Management**: Riverpod
+- **Realtime Messaging**: Firebase Cloud Firestore
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+- Flutter SDK
+- Firebase Project (iOS + Android setup)
+- Google Maps API Key
+
+### 📥 Installation
+
+```bash
+git clone https://github.com/crisvin03/BuMo.git
+cd BuMo
+flutter pub get
