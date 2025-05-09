@@ -1,6 +1,28 @@
 # 🚖 BuMo – Bulan Moonride Motorcycle Ride App
 
 **BuMo** is a Flutter-based mobile application that replicates the core functionality of ride-hailing platforms like Angkas. It provides a seamless user experience for both **riders** and **drivers**, enabling real-time booking, navigation, and communication.
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/BuMo1.png" alt="Rider Dashboard" width="300"/><br/>
+  <em>Rider Dashboard</em>
+</p>
+
+<p align="center">
+  <img src="assets/BuMo2.png" alt="Live Tracking" width="300"/><br/>
+  <em>Live Map Tracking</em>
+</p>
+
+<p align="center">
+  <img src="assets/BuMo3.png" alt="Chat Interface" width="300"/><br/>
+  <em>Chat Interface</em>
+</p>
+
+<p align="center">
+  <img src="assets/BuMo5.png" alt="Booking Confirmation" width="300"/><br/>
+  <em>Booking Confirmation</em>
+</p>
+
 
 ---
 
