@@ -4,25 +4,20 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/BuMo1.png" alt="Rider Dashboard" width="300"/><br/>
-  <em>Rider Dashboard</em>
+  <img src="assets/BuMo1.png" width="200"/>
+  <img src="assets/BuMo2.png" width="200"/>
+  <img src="assets/BuMo3.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="assets/BuMo2.png" alt="Live Tracking" width="300"/><br/>
-  <em>Live Map Tracking</em>
+  <img src="assets/BuMo5.png" width="200"/>
+  <img src="assets/BuMo6.png" width="200"/>
+  <img src="assets/BuMo7.png" width="200"/>
 </p>
 
 <p align="center">
-  <img src="assets/BuMo3.png" alt="Chat Interface" width="300"/><br/>
-  <em>Chat Interface</em>
-</p>
-
-<p align="center">
-  <img src="assets/BuMo5.png" alt="Booking Confirmation" width="300"/><br/>
-  <em>Booking Confirmation</em>
-</p>
-
+  <img src="assets/BuMo8.png" width="200"/>
+  <img src="assets/BuMo9.png" width="200"/>
 
 ---
 
