@@ -1,4 +1,4 @@
-# 🚖 BuMo – Bulan Movers Motorcycle Ride App
+# 🚖 BuMo – Bulan Motorcycle Ride App
 
 **BuMo** is a Flutter-based mobile application that replicates the core functionality of ride-hailing platforms like Angkas. It provides a seamless user experience for both **riders** and **drivers**, enabling real-time booking, navigation, and communication.
 ## 📸 Screenshots
